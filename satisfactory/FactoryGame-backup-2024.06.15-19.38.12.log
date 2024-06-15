@@ -1,0 +1,723 @@
+﻿Log file open, 06/15/24 19:35:02
+LogInit: Display: Running engine for game: FactoryGame
+LogInit: Display: Project file not found: /home/satisfactory/DedicatedServer/FactoryGame/FactoryGame.uproject
+LogInit: Display: 	Attempting to find via project info helper.
+LogUProjectInfo: Found projects:
+LogPakFile: Display: Found Pak file ../../../FactoryGame/Content/Paks/FactoryGame-LinuxServer.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FactoryGame/Content/Paks/FactoryGame-LinuxServer.pak.
+LogPakFile: Display: Mounted Pak file '../../../FactoryGame/Content/Paks/FactoryGame-LinuxServer.pak', mount point: '../../../'
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Linux-37E14329803842BE993138A5D5162BC6
+         Session CrashGUID >====================================================
+LogConfig: Warning: Found a deprecated ini section name in ../../../FactoryGame/Config/DefaultEngine.ini. Search for [/Script/Engine.TextureLODSettings] and replace with [GlobalDefaults DeviceProfile]
+LogConfig: Warning: Found a deprecated ini section name in ../../../FactoryGame/Config/DefaultDeviceProfiles.ini. Search for [/Script/Engine.TextureLODSettings] and replace with [GlobalDefaults DeviceProfile]
+LogAssetRegistry: Premade AssetRegistry loaded from '../../../FactoryGame/AssetRegistry.bin'
+LogPluginManager: Warning: Engine version string in ../../../FactoryGame/Plugins/NIS/NIS.uplugin could not be parsed ("5.1")
+LogPluginManager: Warning: Engine version string in ../../../FactoryGame/Plugins/DLSS/DLSS.uplugin could not be parsed ("5.1")
+LogPluginManager: Warning: Engine version string in ../../../FactoryGame/Plugins/XeSS/XeSS.uplugin could not be parsed ("5.1")
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationData
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin LensDistortion
+LogPluginManager: Mounting Engine plugin OpenColorIO
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin DSTelemetry
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin ConcertMain
+LogPluginManager: Mounting Engine plugin ConcertSyncClient
+LogPluginManager: Mounting Engine plugin ConcertSyncCore
+LogPluginManager: Mounting Engine plugin ConcertSharedSlate
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin BlueprintHeaderView
+LogPluginManager: Mounting Engine plugin ConsoleVariables
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin LightMixer
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Found config from plugin[EnhancedInput] Input
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin GLTFExporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin BlueprintStats
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosUserDataPT
+LogPluginManager: Mounting Engine plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ControlFlows
+LogPluginManager: Mounting Engine plugin Dataflow
+LogPluginManager: Mounting Engine plugin Fracture
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryScripting
+LogPluginManager: Mounting Engine plugin Landmass
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin RawInput
+LogPluginManager: Found config from plugin[RawInput] Input
+LogPluginManager: Mounting Engine plugin UVEditor
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlate
+LogPluginManager: Mounting Engine plugin MfMedia
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MovieRenderPipeline
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin EOSShared
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineFramework
+LogPluginManager: Mounting Engine plugin OnlineServicesEOSGS
+LogPluginManager: Found config from plugin[OnlineServicesEOSGS] Engine
+LogPluginManager: Mounting Engine plugin OnlineServicesEOS
+LogPluginManager: Mounting Engine plugin OnlineServicesOSSAdapter
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemEOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemSteam
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin SocketSubsystemEOS
+LogPluginManager: Mounting Engine plugin EOSVoiceChat
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin ApexDestruction
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioWidgets
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin Metasound
+LogPluginManager: Mounting Engine plugin ModelViewViewModel
+LogPluginManager: Mounting Engine plugin DTLSHandlerComponent
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ReplicationGraph
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SteamController
+LogPluginManager: Found config from plugin[SteamController] Input
+LogPluginManager: Mounting Engine plugin SteamShared
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WaveTable
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin EditorTests
+LogPluginManager: Mounting Engine plugin FbxAutomationTestBuilder
+LogPluginManager: Mounting Engine plugin FunctionalTestingEditor
+LogPluginManager: Mounting Engine plugin InterchangeTests
+LogPluginManager: Mounting Engine plugin RuntimeTests
+LogPluginManager: Mounting Engine plugin TraceUtilities
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin Wwise
+LogPluginManager: Mounting Project plugin AbstractInstance
+LogPluginManager: Mounting Project plugin DLSS
+LogPluginManager: Mounting Project plugin EditorTools
+LogPluginManager: Mounting Project plugin InstancedSplines
+LogPluginManager: Mounting Project plugin NIS
+LogPluginManager: Mounting Project plugin OnlineIntegration
+LogPluginManager: Mounting Project plugin OnlineServicesSteamLimited
+LogPluginManager: Mounting Project plugin SignificanceISPC
+LogPluginManager: Mounting Project plugin XeSS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Compositing/LensDistortion/Content/' mounted to '/LensDistortion/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Compositing/OpenColorIO/Content/' mounted to '/OpenColorIO/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content/' mounted to '/ConcertSyncClient/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ConsoleVariablesEditor/Content/' mounted to '/ConsoleVariables/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosVehiclesPlugin/Content/' mounted to '/ChaosVehiclesPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ControlFlows/Content/' mounted to '/ControlFlows/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryScripting/Content/' mounted to '/GeometryScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/UVEditor/Content/' mounted to '/UVEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/MovieRenderPipeline/Content/' mounted to '/MovieRenderPipeline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Tests/EditorTests/Content/' mounted to '/EditorTests/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Tests/RuntimeTests/Content/' mounted to '/RuntimeTests/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/TraceUtilities/Content/' mounted to '/TraceUtilities/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Wwise/Content/' mounted to '/Wwise/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../FactoryGame/Plugins/AbstractInstance/Content/' mounted to '/AbstractInstance/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../FactoryGame/Plugins/DLSS/Content/' mounted to '/DLSS/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../FactoryGame/Plugins/EditorTools/Content/' mounted to '/EditorTools/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../FactoryGame/Plugins/InstancedSplines/Content/' mounted to '/InstancedSplines/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../FactoryGame/Plugins/Online/OnlineIntegration/Content/' mounted to '/OnlineIntegration/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../FactoryGame/Plugins/Online/OnlineServicesSteamLimited/Content/' mounted to '/OnlineServicesSteamLimited/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../FactoryGame/Plugins/SignificanceISPC/Content/' mounted to '/SignificanceISPC/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../FactoryGame/Plugins/XeSS/Content/' mounted to '/XeSS/'
+LogHAL: Log category LogOnlineSession verbosity has been raised to Verbose.
+LogEOSSDK: Initializing EOSSDK Version:1.15.3-22413439
+LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.15.3-22413439 booting at 2024-06-15T19:35:02.546Z using C
+LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Linux/, ClientId=02612880aa774fb28e3741d3e01501fd, ProductId=prod-crab, SandboxId=crab, DeploymentId=5aebeb30a7614270b4f40c0bc2fe7549, ProductName=FactoryGame, ProductVersion=++FactoryGame+rel-early-access-CL-273254, IsServer=false, Flags=LoadingInEditor]
+LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.000028
+LogInit: Using libcurl 7.83.1
+LogInit:  - built for Linux
+LogInit:  - supports SSL with OpenSSL/1.1.1n
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.12
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogDLSSBlueprint: DLSS is not supported on this platform at build time. The DLSS Blueprint library however is supported and stubbed out to ignore any calls to enable DLSS and will always return UDLSSSupport::NotSupportedByPlatformAtBuildTime, regardless of the underlying hardware. This can be used to e.g. to turn off DLSS related UI elements.
+LogSteamShared: Display: Loading Steam SDK 1.57
+LogSteamShared: Display: Loaded libsteam_api.so at 0x199bc20
+LogSteamShared: Steam SDK Loaded!
+LogInit: ExecutableName: UnrealServer-Linux-Shipping
+LogInit: Build: ++FactoryGame+rel-early-access-CL-273254
+LogInit: Engine Version: 5.2.1-273254+++FactoryGame+rel-early-access
+LogInit: Compatible Engine Version: 5.2.1-273254+++FactoryGame+rel-early-access
+LogInit: Net CL: 273254
+LogInit: OS: Ubuntu 22.04.1 LTS (5.15.0-112-generic), CPU: Intel(R) Core(TM) i9-14900K, GPU: UnknownVendor PCI-id: 1234-1111 (1af4-1100)
+LogInit: Compiled (64-bit): Dec 11 2023 14:17:46
+LogInit: Architecture: x64
+LogInit: Compiled with Clang: 15.0.1 (https://github.com/llvm/llvm-project b73d2c8c720a8c8e6e73b11be4e27afa6cb75bdf)
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++FactoryGame+rel-early-access
+LogInit: Command Line: -ServerQueryPort=57034 -BeaconPort=57035 -Port=57036
+LogInit: Base Directory: /home/satisfactory/DedicatedServer/Engine/Binaries/Linux/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogInit: Launcher File: /home/satisfactory/DedicatedServer/launcher_id
+LogInit: Launcher ID: steam
+LogInit: Launcher Artifact: 
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogInit: Object subsystem initialized
+[2024.06.15-19.35.02:575][  0]LogLinux: Selected Device Profile: [LinuxServer]
+[2024.06.15-19.35.02:575][  0]LogInit: Selected Device Profile: [LinuxServer]
+[2024.06.15-19.35.02:575][  0]LogHAL: Display: Platform has ~ 16 GB [16766103552 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.06.15-19.35.02:575][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Linux]
+[2024.06.15-19.35.02:575][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.06.15-19.35.02:575][  0]LogInit: Unix hardware info:
+[2024.06.15-19.35.02:575][  0]LogInit:  - we are the first instance of this executable
+[2024.06.15-19.35.02:575][  0]LogInit:  - this process' id (pid) is 3293183, parent process' id (ppid) is 3293176
+[2024.06.15-19.35.02:575][  0]LogInit:  - we are not running under debugger
+[2024.06.15-19.35.02:575][  0]LogInit:  - machine network name is 'ECS7570'
+[2024.06.15-19.35.02:575][  0]LogInit:  - user name is 'satisfactory' (satisfactory)
+[2024.06.15-19.35.02:575][  0]LogInit:  - we're logged in remotely
+[2024.06.15-19.35.02:575][  0]LogInit:  - we're running without rendering
+[2024.06.15-19.35.02:575][  0]LogInit:  - CPU: GenuineIntel 'Intel(R) Core(TM) i9-14900K' (signature: 0xB0671)
+[2024.06.15-19.35.02:575][  0]LogInit:  - Number of physical cores available for the process: 4
+[2024.06.15-19.35.02:575][  0]LogInit:  - Number of logical cores available for the process: 4
+[2024.06.15-19.35.02:575][  0]LogInit:  - GPU Brand Info: UnknownVendor PCI-id: 1234-1111 (1af4-1100)
+[2024.06.15-19.35.02:575][  0]LogInit:  - Memory allocator used: binned2
+[2024.06.15-19.35.02:575][  0]LogInit:  - This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+[2024.06.15-19.35.02:575][  0]LogInit:  - This is a licensee build.
+[2024.06.15-19.35.02:575][  0]LogCore: Benchmarking clocks:
+[2024.06.15-19.35.02:575][  0]LogCore:  - CLOCK_MONOTONIC (id=1) can sustain 46531870 (46532K, 47M) calls per second without zero deltas.
+[2024.06.15-19.35.02:575][  0]LogCore:  - CLOCK_MONOTONIC_RAW (id=4) can sustain 46892362 (46892K, 47M) calls per second without zero deltas.
+[2024.06.15-19.35.02:575][  0]LogCore:  - CLOCK_MONOTONIC_COARSE (id=6) can sustain 331380929 (331381K, 331M) calls per second with 99.999922% zero deltas.
+[2024.06.15-19.35.02:575][  0]LogCore: Selected clock_id 4 (CLOCK_MONOTONIC_RAW) since it is the fastest support clock without zero deltas.
+[2024.06.15-19.35.02:575][  0]LogInit: Unix-specific commandline switches:
+[2024.06.15-19.35.02:575][  0]LogInit:  -ansimalloc - use malloc()/free() from libc (useful for tools like valgrind and electric fence)
+[2024.06.15-19.35.02:575][  0]LogInit:  -jemalloc - use jemalloc for all memory allocation
+[2024.06.15-19.35.02:575][  0]LogInit:  -binnedmalloc - use binned malloc  for all memory allocation
+[2024.06.15-19.35.02:575][  0]LogInit:  -filemapcachesize=NUMBER - set the size for case-sensitive file mapping cache
+[2024.06.15-19.35.02:575][  0]LogInit:  -useksm - uses kernel same-page mapping (KSM) for mapped memory (OFF)
+[2024.06.15-19.35.02:575][  0]LogInit:  -ksmmergeall - marks all mmap'd memory pages suitable for KSM (OFF)
+[2024.06.15-19.35.02:575][  0]LogInit:  -preloadmodulesymbols - Loads the main module symbols file into memory (OFF)
+[2024.06.15-19.35.02:575][  0]LogInit:  -sigdfl=SIGNAL - Allows a specific signal to be set to its default handler rather then ignoring the signal
+[2024.06.15-19.35.02:575][  0]LogInit:  -crashhandlerstacksize - Allows setting crash handler stack sizes (204800)
+[2024.06.15-19.35.02:575][  0]LogInit:  -noexclusivelockonwrite - disables marking files created by the engine as exclusive locked while the engine has them opened
+[2024.06.15-19.35.02:575][  0]LogInit:  -httpproxy=ADDRESS:PORT - redirects HTTP requests to a proxy (only supported if compiled with libcurl)
+[2024.06.15-19.35.02:575][  0]LogInit:  -reuseconn - allow libcurl to reuse HTTP connections (only matters if compiled with libcurl)
+[2024.06.15-19.35.02:575][  0]LogInit:  -virtmemkb=NUMBER - sets process virtual memory (address space) limit (overrides VirtualMemoryLimitInKB value from .ini)
+[2024.06.15-19.35.02:575][  0]LogInit:  -allowsyscallfilterfile=PATH_TO_FILE - sets up a system call filter allow list. any invalid syscall in this list *will* cause a crash
+[2024.06.15-19.35.02:575][  0]LogInit:  - Physical RAM available (not considering process quota): 16 GB (15989 MB, 16373148 KB, 16766103552 bytes)
+[2024.06.15-19.35.02:575][  0]LogInit:  - VirtualMemoryAllocator pools will grow at scale 1.4
+[2024.06.15-19.35.02:575][  0]LogInit:  - MemoryRangeDecommit() will will evict the memory from RAM (re-run with -novmapoolevict to change)
+[2024.06.15-19.35.02:575][  0]LogInit:  - PageSize 4096
+[2024.06.15-19.35.02:575][  0]LogInit:  - BinnedPageSize 65536
+[2024.06.15-19.35.02:575][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2024.06.15-19.35.02:575][  0]LogInit: Overriding language with engine language configuration option (en-US-Posix).
+[2024.06.15-19.35.02:576][  0]LogInit: Overriding language with engine locale configuration option (en-US-Posix).
+[2024.06.15-19.35.02:577][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/en-US-POSIX/Engine.locres' could not be opened for reading!
+[2024.06.15-19.35.02:577][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineFramework/Content/Localization/OnlineFramework/en-US-POSIX/OnlineFramework.locres' could not be opened for reading!
+[2024.06.15-19.35.02:577][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemSteam/Content/Localization/OnlineSubsystemSteam/en-US-POSIX/OnlineSubsystemSteam.locres' could not be opened for reading!
+[2024.06.15-19.35.02:577][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/en-US-POSIX/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2024.06.15-19.35.02:577][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/en-US-POSIX/OnlineSubsystem.locres' could not be opened for reading!
+[2024.06.15-19.35.02:577][  0]LogTextLocalizationResource: LocRes '../../../FactoryGame/Plugins/XeSS/Content/Localization/XeSS/en-US-POSIX/XeSS.locres' could not be opened for reading!
+[2024.06.15-19.35.02:598][  0]LogConfig: Warning: Found a deprecated ini section name in ../../../FactoryGame/Config/DefaultEngine.ini. Search for [/Script/Engine.TextureLODSettings] and replace with [GlobalDefaults DeviceProfile]
+[2024.06.15-19.35.02:599][  0]LogRendererCore: Ray tracing is disabled. Reason: disabled through project setting (r.RayTracing=0).
+[2024.06.15-19.35.02:603][  0]LogPluginManager: Warning: Engine version string in ../../../FactoryGame/Plugins/NIS/NIS.uplugin could not be parsed ("5.1")
+[2024.06.15-19.35.02:603][  0]LogPluginManager: Warning: Engine version string in ../../../FactoryGame/Plugins/DLSS/DLSS.uplugin could not be parsed ("5.1")
+[2024.06.15-19.35.02:603][  0]LogPluginManager: Warning: Engine version string in ../../../FactoryGame/Plugins/XeSS/XeSS.uplugin could not be parsed ("5.1")
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Compositing/LensDistortion/Content/' mounted to '/LensDistortion/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Compositing/OpenColorIO/Content/' mounted to '/OpenColorIO/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content/' mounted to '/ConcertSyncClient/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ConsoleVariablesEditor/Content/' mounted to '/ConsoleVariables/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosVehiclesPlugin/Content/' mounted to '/ChaosVehiclesPlugin/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ControlFlows/Content/' mounted to '/ControlFlows/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryScripting/Content/' mounted to '/GeometryScripting/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/UVEditor/Content/' mounted to '/UVEditor/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/MovieRenderPipeline/Content/' mounted to '/MovieRenderPipeline/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+[2024.06.15-19.35.02:603][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+[2024.06.15-19.35.02:604][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
+[2024.06.15-19.35.02:604][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Tests/EditorTests/Content/' mounted to '/EditorTests/'
+[2024.06.15-19.35.02:604][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Tests/RuntimeTests/Content/' mounted to '/RuntimeTests/'
+[2024.06.15-19.35.02:604][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/TraceUtilities/Content/' mounted to '/TraceUtilities/'
+[2024.06.15-19.35.02:604][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+[2024.06.15-19.35.02:604][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Wwise/Content/' mounted to '/Wwise/'
+[2024.06.15-19.35.02:604][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../FactoryGame/Plugins/AbstractInstance/Content/' mounted to '/AbstractInstance/'
+[2024.06.15-19.35.02:604][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../FactoryGame/Plugins/DLSS/Content/' mounted to '/DLSS/'
+[2024.06.15-19.35.02:604][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../FactoryGame/Plugins/EditorTools/Content/' mounted to '/EditorTools/'
+[2024.06.15-19.35.02:604][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../FactoryGame/Plugins/InstancedSplines/Content/' mounted to '/InstancedSplines/'
+[2024.06.15-19.35.02:604][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../FactoryGame/Plugins/Online/OnlineIntegration/Content/' mounted to '/OnlineIntegration/'
+[2024.06.15-19.35.02:604][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../FactoryGame/Plugins/Online/OnlineServicesSteamLimited/Content/' mounted to '/OnlineServicesSteamLimited/'
+[2024.06.15-19.35.02:604][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../FactoryGame/Plugins/SignificanceISPC/Content/' mounted to '/SignificanceISPC/'
+[2024.06.15-19.35.02:604][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../FactoryGame/Plugins/XeSS/Content/' mounted to '/XeSS/'
+[2024.06.15-19.35.02:604][  0]LogInit: Overriding language with engine language configuration option (en-US-Posix).
+[2024.06.15-19.35.02:604][  0]LogInit: Overriding language with engine locale configuration option (en-US-Posix).
+[2024.06.15-19.35.02:607][  0]LogAssetRegistry: FAssetRegistry took 0.0001 seconds to start up
+[2024.06.15-19.35.02:615][  0]LogTextLocalizationResource: LocRes '../../../FactoryGame/Content/Localization/Game/en/Game.locres' could not be opened for reading!
+[2024.06.15-19.35.02:616][  0]LogTextLocalizationResource: LocRes '../../../FactoryGame/Content/Localization/InputKeys/en/InputKeys.locres' could not be opened for reading!
+[2024.06.15-19.35.02:644][  0]LogStreaming: Display: FlushAsyncLoading(1): 1 QueuedPackages, 0 AsyncPackages
+[2024.06.15-19.35.02:644][  0]LogPackageLocalizationCache: Processed 58 localized package path(s) for 2 prioritized culture(s) in 0.000097 seconds
+[2024.06.15-19.35.02:644][  0]LogPakFile: New pak file ../../../FactoryGame/Content/Paks/FactoryGame-LinuxServer.pak added to pak precacher.
+[2024.06.15-19.35.02:645][  0]LogLinux: Selected Device Profile: [LinuxServer]
+[2024.06.15-19.35.02:645][  0]LogDeviceProfileManager: Available device profiles:
+[2024.06.15-19.35.02:645][  0]LogDeviceProfileManager: 	[0x7f7b9b945480][0x7f7bc1300010 52] Linux, 
+[2024.06.15-19.35.02:645][  0]LogDeviceProfileManager: 	[0x7f7b9b9451e0][0x7f7bc12f4930 52] LinuxServer, 
+[2024.06.15-19.35.02:645][  0]LogDeviceProfileManager: Active device profile: [0x7f7b9b9451e0][0x7f7bc12f4930 52] LinuxServer
+[2024.06.15-19.35.02:767][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.06.15-19.35.02:770][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2024.06.15-19.35.02:917][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.06.15-19.35.03:008][  0]LogConsoleManager: Warning: Console object named 'OSS.SteamInitServerOnClient' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2024.06.15-19.35.03:010][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.06.15-19.35.03:010][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.06.15-19.35.03:027][  0]LogUObjectArray: 38893 objects as part of root set at end of initial load.
+[2024.06.15-19.35.03:027][  0]LogUObjectArray: 6148 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2024.06.15-19.35.03:027][  0]LogUObjectAllocator: 12470904 out of 0 bytes used by permanent object pool.
+[2024.06.15-19.35.03:027][  0]LogUObjectArray: CloseDisregardForGC: 38893/38893 objects in disregard for GC pool
+[2024.06.15-19.35.03:027][  0]LogEngine: Initializing Engine...
+[2024.06.15-19.35.03:028][  0]LogContentBundle: [CB: TestContentBundle] Client Created
+[2024.06.15-19.35.03:028][  0]LogContentBundle: [CB: TestContentBundle] Client State changing from Unregistered to Registered
+[2024.06.15-19.35.03:028][  0]LogContentBundle: [Client] New client registered. Client: FGWorldPartitionContentBundleSubsystem, Descriptor: TestContentBundle
+[2024.06.15-19.35.03:028][  0]LogContentBundle: [CB: TestContentBundle] Client State changing from Registered to ContentInjectionRequested
+[2024.06.15-19.35.03:028][  0]LogContentBundle: [Client] Client requested content injection. Client: FGWorldPartitionContentBundleSubsystem, Descriptor: TestContentBundle
+[2024.06.15-19.35.03:039][  0]LogAssetManager: Display: Ignoring PrimaryAssetType Profiling - Conflicts with Map - Asset: Map_UI-Profile
+[2024.06.15-19.35.03:039][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.06.15-19.35.03:039][  0]LogNetVersion: Set ProjectVersion to 0.0.1.0. Version Checksum will be recalculated on next use.
+[2024.06.15-19.35.03:039][  0]LogInit: Texture streaming: Disabled
+[2024.06.15-19.35.03:041][  0]LogUserSetting: Initializing user settings
+[2024.06.15-19.35.03:071][  0]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=10.00
+[2024.06.15-19.35.03:071][  0]LogSynthBenchmark: Display: ===============
+[2024.06.15-19.35.03:071][  0]LogSynthBenchmark: Display: Main Processor:
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:          ... 0.008601 s/Run 'RayIntersect'
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:          ... 0.009636 s/Run 'Fractal'
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display: 
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 1
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 16
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:   NumberOfCores (physical): 4
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:   NumberOfCores (logical): 4
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:   CPU Perf Index 0: 297.8 (weight 1.00)
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:   CPU Perf Index 1: 296.8 (weight 1.50)
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:  
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display: Graphics:
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:   Adapter Name: ''
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:   Vendor Id: 0x1
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:   Device Id: 0x0
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:   Device Revision: 0x0
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:   CPUIndex: 297.2
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display: 
+[2024.06.15-19.35.03:254][  0]LogSynthBenchmark: Display:          ... Total Time: 0.182459 sec
+[2024.06.15-19.35.03:254][  0]LogWwiseSoundEngine: Display: Loading Wwise Sound Engine version 2022.1
+[2024.06.15-19.35.03:255][  0]LogAkAudio: FAkAudioModule::UpdateWwiseResourceLoaderSettings : Updating Resource Loader settings.
+[2024.06.15-19.35.03:255][  0]LogAkAudio: Error: FAkAudioModule::UpdateWwiseResourceLoaderSettings : No Resource Loader!
+[2024.06.15-19.35.03:255][  0]LogAkAudio: FAkAudioModule::StartupModule: Couldn't initialize FAkAudioDevice. AkAudioModule will not be fully initialized.
+[2024.06.15-19.35.03:259][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.15-19.35.03:260][  0]LogGame: MaxNumBackupsaves: 25
+[2024.06.15-19.35.03:261][  0]LogInit: Display: Game Engine Initialized.
+[2024.06.15-19.35.03:262][  0]LogNetVersion: Set ProjectVersion to ++FactoryGame+rel-early-access-CL-273254. Version Checksum will be recalculated on next use.
+[2024.06.15-19.35.03:264][  0]LogInit: OnPostEngineInit has been broadcasted successfully.
+[2024.06.15-19.35.03:266][  0]LogNIS: StartupModule Enter
+[2024.06.15-19.35.03:266][  0]LogNIS: StartupModule Leave
+[2024.06.15-19.35.03:267][  0]LogInit: Display: Starting Game.
+[2024.06.15-19.35.03:267][  0]LogNet: Browse: /Game/FactoryGame/Map/DedicatedserverEntry?Name=Player
+[2024.06.15-19.35.03:267][  0]LogLoad: LoadMap: /Game/FactoryGame/Map/DedicatedserverEntry?Name=Player
+[2024.06.15-19.35.03:267][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2024.06.15-19.35.03:267][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.06.15-19.35.03:270][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.06.15-19.35.03:328][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.15-19.35.03:330][  0]LogAIModule: Creating AISystem for world DedicatedserverEntry
+[2024.06.15-19.35.03:330][  0]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2024.06.15-19.35.03:332][  0]LogReplicationGraph: Display: SetActorDiscoveryBudget set to 20 kBps (5333 bits per network tick).
+[2024.06.15-19.35.03:332][  0]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.06.15-19.35.03:332][  0]LogInit: BSD IPv4/6: Socket queue. Rx: 262144 (config 131072) Tx: 262144 (config 131072)
+[2024.06.15-19.35.03:332][  0]LogNet: Created socket for bind address: 0.0.0.0:57036
+[2024.06.15-19.35.03:332][  0]PacketHandlerLog: Loaded PacketHandler component: DTLSHandlerComponent ()
+[2024.06.15-19.35.03:332][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.15-19.35.03:333][  0]LogNet: GameNetDriver NetDriverEOSBase_2147482340 IpNetDriver listening on port 57036
+[2024.06.15-19.35.03:333][  0]LogWorld: Bringing World /Game/FactoryGame/Map/DedicatedserverEntry.DedicatedserverEntry up for play (max tick rate 30) at 2024.06.15-19.35.03
+[2024.06.15-19.35.03:335][  0]LogWorld: Bringing up level for play took: 0.002010
+[2024.06.15-19.35.03:335][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.06.15-19.35.03:391][  0]LogPakFile: Precache HighWater 16MB
+
+[2024.06.15-19.35.03:586][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.06.15-19.35.03:586][  0]LogReplicationGraph: Display: SetActorDiscoveryBudget set to 20 kBps (5333 bits per network tick).
+[2024.06.15-19.35.03:586][  0]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.06.15-19.35.03:587][  0]LogInit: BSD IPv4/6: Socket queue. Rx: 262144 (config 131072) Tx: 262144 (config 131072)
+[2024.06.15-19.35.03:587][  0]LogNet: Created socket for bind address: 0.0.0.0:57035
+[2024.06.15-19.35.03:587][  0]PacketHandlerLog: Loaded PacketHandler component: DTLSHandlerComponent ()
+[2024.06.15-19.35.03:587][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.15-19.35.03:587][  0]LogNet: IpNetDriver_2147482295 IpNetDriver_2147482295 IpNetDriver listening on port 57035
+[2024.06.15-19.35.03:587][  0]LogLoad: Took 0.319941 seconds to LoadMap(/Game/FactoryGame/Map/DedicatedserverEntry)
+[2024.06.15-19.35.03:587][  0]LogGame: EOS Metrics, starting service.
+[2024.06.15-19.35.03:587][  0]LogGame: Warning: EOS metrics, invalid handle.
+[2024.06.15-19.35.03:587][  0]LogGame: Telemetry, starting service.
+[2024.06.15-19.35.03:587][  0]LogGame: Warning: Telemetry, no local player found.
+[2024.06.15-19.35.03:588][  0]LogGame: Telemetry instance started without a platform.
+[2024.06.15-19.35.03:591][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.06.15-19.35.03:591][  0]LogLoad: (Engine Initialization) Total time: 1.14 seconds
+[2024.06.15-19.35.03:625][  0]LogOnlineVoice: OSS: Voice interface disabled by config [OnlineSubsystem].bHasVoiceEnabled
+[2024.06.15-19.35.04:693][ 33]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 2.107331
+[2024.06.15-19.35.04:694][ 33]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2024.06.15-19.35.04:694][ 33]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2.140654
+[2024.06.15-19.35.05:061][ 44]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2024.06.15-19.35.05:361][ 53]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 2.775219
+[2024.06.15-19.35.05:362][ 53]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -538116121
+[2024.06.15-19.35.05:362][ 53]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2.775219, Update Interval: 306.434479
+[2024.06.15-19.35.13:821][306]LogServer: Opening a new route from '27.151.103.140:5081' to '127.0.0.1:57035'
+[2024.06.15-19.35.13:847][306]LogNet: NotifyAcceptingConnection: Server OnlineBeaconHost_2147482297 accept
+[2024.06.15-19.35.13:847][306]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:44781
+[2024.06.15-19.35.13:847][306]LogNetVersion: FactoryGame ++FactoryGame+rel-early-access-CL-273254, NetCL: 273254, EngineNetworkVersion: 32, GameNetworkVersion: 0 (Checksum: 3414074979)
+[2024.06.15-19.35.14:314][320]LogNet: NotifyAcceptingConnection: Server OnlineBeaconHost_2147482297 accept
+[2024.06.15-19.35.14:315][320]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:44781
+[2024.06.15-19.35.14:816][335]LogNet: NotifyAcceptingConnection: Server OnlineBeaconHost_2147482297 accept
+[2024.06.15-19.35.14:816][335]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:44781
+[2024.06.15-19.35.14:849][336]LogNet: NotifyAcceptingConnection: Server OnlineBeaconHost_2147482297 accept
+[2024.06.15-19.35.14:849][336]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:44781
+[2024.06.15-19.35.14:882][337]LogNet: NotifyAcceptingConnection: Server OnlineBeaconHost_2147482297 accept
+[2024.06.15-19.35.14:882][337]LogNet: Server accepting post-challenge connection from: 127.0.0.1:44781
+[2024.06.15-19.35.14:882][337]LogNet: IpConnection_2147482284 setting maximum channels to: 32767
+[2024.06.15-19.35.14:883][337]PacketHandlerLog: Loaded PacketHandler component: DTLSHandlerComponent ()
+[2024.06.15-19.35.14:883][337]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.15-19.35.14:883][337]LogNet: NotifyAcceptedConnection: Name: OnlineBeaconHost_2147482297, TimeStamp: 06/15/24 19:35:14, [UNetConnection] RemoteAddr: 127.0.0.1:44781, Name: IpConnection_2147482284, Driver: IpNetDriver_2147482295 IpNetDriver_2147482295, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.15-19.35.14:883][337]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:44781, Name: IpConnection_2147482284, Driver: IpNetDriver_2147482295 IpNetDriver_2147482295, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.15-19.35.15:317][350]LogDTLSHandler: EnableEncryption: Server
+[2024.06.15-19.35.15:317][350]LogDTLSHandler: Warning: Empty certificate identifier
+[2024.06.15-19.35.15:384][352]LogDTLSHandler: DTLSCertVerifyCallback: Verified
+[2024.06.15-19.35.15:384][352]LogDTLSHandler: UpdateHandshake:  Handshaking completed
+[2024.06.15-19.35.15:918][368]LogNet: NotifyAcceptingChannel Control 0 server OnlineBeaconHost /Game/FactoryGame/Map/DedicatedserverEntry.DedicatedserverEntry:PersistentLevel.OnlineBeaconHost_2147482297: Accepted
+[2024.06.15-19.35.15:918][368]LogNet: Remote platform little endian=1
+[2024.06.15-19.35.15:918][368]LogNet: This platform little endian=1
+[2024.06.15-19.35.15:918][368]LogBeacon: OnlineBeaconHost_2147482297[IpConnection_2147482284]: Beacon Hello
+[2024.06.15-19.35.15:951][369]LogBeacon: OnlineBeaconHost_2147482297[IpConnection_2147482284]: Client netspeed is 100000
+[2024.06.15-19.35.15:951][369]LogBeacon: OnlineBeaconHost_2147482297[IpConnection_2147482284]: Beacon Join FGServerBeaconClient Epic:1 (EAS=[d23179b3c1cb4011b8b18f6b41e26029] EOS=[000209fe805a4bacbaa06a7b72aa4c45]) (unauthenticated)
+[2024.06.15-19.35.15:952][369]LogReplicationGraph: Warning: No Replication Lists were returned for connection
+[2024.06.15-19.35.15:985][370]LogBeacon: OnlineBeaconHost_2147482297[IpConnection_2147482284]: Handshake complete.
+[2024.06.15-19.35.38:201][ 35]LogGameMode: Display: Match State Changed from WaitingToStart to LeavingMap
+[2024.06.15-19.35.38:201][ 35]LogGameState: Match State Changed from WaitingToStart to LeavingMap
+[2024.06.15-19.35.38:201][ 35]LogNet: Browse: /Game/FactoryGame/Map/GameLevel01/Persistent_Level??listen?sessionName=GGFactory?startloc=Grass Fields?Visibility=SV_Private
+[2024.06.15-19.35.38:202][ 35]LogLoad: LoadMap: /Game/FactoryGame/Map/GameLevel01/Persistent_Level??listen?sessionName=GGFactory?startloc=Grass Fields?Visibility=SV_Private
+[2024.06.15-19.35.38:202][ 35]LogWorld: BeginTearingDown for /Game/FactoryGame/Map/DedicatedserverEntry
+[2024.06.15-19.35.38:202][ 35]LogNet: World NetDriver shutdown NetDriverEOSBase_2147482340 [GameNetDriver]
+[2024.06.15-19.35.38:202][ 35]LogNet: DestroyNamedNetDriver NetDriverEOSBase_2147482340 [GameNetDriver]
+[2024.06.15-19.35.38:202][ 35]LogExit: GameNetDriver NetDriverEOSBase_2147482340 shut down
+[2024.06.15-19.35.38:202][ 35]LogNet: World NetDriver shutdown IpNetDriver_2147482295 [IpNetDriver_2147482295]
+[2024.06.15-19.35.38:202][ 35]LogNet: DestroyNamedNetDriver IpNetDriver_2147482295 [IpNetDriver_2147482295]
+[2024.06.15-19.35.38:202][ 35]LogNet: UNetConnection::SendCloseReason:
+[2024.06.15-19.35.38:202][ 35]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.06.15-19.35.38:202][ 35]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:44781, Name: IpConnection_2147482284, Driver: IpNetDriver_2147482295 IpNetDriver_2147482295, IsServer: YES, PC: NULL, Owner: FGServerBeaconClient_2147482277, UniqueId: Epic:1 (EAS=[d23179b3c1cb4011b8b18f6b41e26029] EOS=[000209fe805a4bacbaa06a7b72aa4c45])
+[2024.06.15-19.35.38:202][ 35]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:44781, Name: IpConnection_2147482284, Driver: IpNetDriver_2147482295 IpNetDriver_2147482295, IsServer: YES, PC: NULL, Owner: FGServerBeaconClient_2147482277, UniqueId: Epic:1 (EAS=[d23179b3c1cb4011b8b18f6b41e26029] EOS=[000209fe805a4bacbaa06a7b72aa4c45]), Channels: 3, Time: 2024.06.15-19.35.38
+[2024.06.15-19.35.38:202][ 35]LogNet: UNetConnection::SendCloseReason:
+[2024.06.15-19.35.38:202][ 35]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.06.15-19.35.38:202][ 35]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:44781, Name: IpConnection_2147482284, Driver: IpNetDriver_2147482295 IpNetDriver_2147482295, IsServer: YES, PC: NULL, Owner: FGServerBeaconClient_2147482277, UniqueId: Epic:1 (EAS=[d23179b3c1cb4011b8b18f6b41e26029] EOS=[000209fe805a4bacbaa06a7b72aa4c45])
+[2024.06.15-19.35.38:203][ 35]LogExit: IpNetDriver_2147482295 IpNetDriver_2147482295 shut down
+[2024.06.15-19.35.38:203][ 35]LogWorld: UWorld::CleanupWorld for DedicatedserverEntry, bSessionEnded=true, bCleanupResources=true
+[2024.06.15-19.35.38:209][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.06.15-19.35.38:318][ 35]LogPakFile: Precache HighWater 32MB
+
+[2024.06.15-19.35.38:407][ 35]LogPakFile: Precache HighWater 48MB
+
+[2024.06.15-19.35.38:430][ 35]LogPakFile: Precache HighWater 64MB
+
+[2024.06.15-19.35.38:437][ 35]LogPakFile: Precache HighWater 80MB
+
+[2024.06.15-19.35.38:444][ 35]LogPakFile: Precache HighWater 96MB
+
+[2024.06.15-19.35.38:451][ 35]LogPakFile: Precache HighWater 112MB
+
+[2024.06.15-19.35.38:934][ 35]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEndLocation Owner:/Game/FactoryGame/Character/Creature/Enemy/Spitter/SpitterAquatic/Projectiles/BP_SpitterSnipeShotProjectile.BP_SpitterSnipeShotProjectile_C:NS_Spitter_SnipeShot_01_GEN_VARIABLE
+[2024.06.15-19.35.38:935][ 35]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEndLocation Owner:/Game/FactoryGame/Character/Creature/Enemy/Spitter/SpitterDesert/Projectiles/BP_SpitterSpreadShotSubProjectile.BP_SpitterSpreadShotSubProjectile_C:NS_Spitter_SingleShot_01_GEN_VARIABLE
+[2024.06.15-19.35.38:935][ 35]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEndLocation Owner:/Game/FactoryGame/Character/Creature/Enemy/Spitter/Attacks/BP_SpitterProjectileSingle.BP_SpitterProjectileSingle_C:NS_Spitter_SingleShot_01_GEN_VARIABLE
+[2024.06.15-19.35.38:935][ 35]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEndLocation Owner:/Game/FactoryGame/Character/Creature/Enemy/Spitter/Attacks/BP_SpitterSingleProjectile.BP_SpitterSingleProjectile_C:NS_Spitter_SingleShot_01_GEN_VARIABLE
+[2024.06.15-19.35.39:012][ 35]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.15-19.35.39:012][ 35]LogAIModule: Creating AISystem for world Persistent_Level
+[2024.06.15-19.35.39:013][ 35]LogWorldPartition: ULevel::OnLevelLoaded(Persistent_Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.15-19.35.39:013][ 35]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.15-19.35.39:013][ 35]LogContentBundle: [Persistent_Level(Dedicated Server)] Creating new contrainer.
+[2024.06.15-19.35.39:013][ 35]LogContentBundle: [Persistent_Level(Dedicated Server)] Begin initializing ContentBundles from 1 registered clients.
+[2024.06.15-19.35.39:013][ 35]LogContentBundle: [CB: TestContentBundle][Persistent_Level(Dedicated Server)] Creating new content bundle from client FGWorldPartitionContentBundleSubsystem with client state ContentInjectionRequested.
+[2024.06.15-19.35.39:013][ 35]LogStreaming: Error: Couldn't find file for package /Game/CB/FactoryGame/Map/GameLevel01/Persistent_Level/_Generated_/StreamingObject_251CVL0ABL1HOH6ZF3KRICZIW requested by async loading code. NameToLoad: /Game/CB/FactoryGame/Map/GameLevel01/Persistent_Level/_Generated_/StreamingObject_251CVL0ABL1HOH6ZF3KRICZIW
+[2024.06.15-19.35.39:013][ 35]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2024.06.15-19.35.39:013][ 35]LogStreaming: Error: Found 0 dependent packages...
+[2024.06.15-19.35.39:013][ 35]LogContentBundle: [CB: TestContentBundle][Persistent_Level(Dedicated Server)] No streaming object found. No content will be injected.
+[2024.06.15-19.35.39:013][ 35]LogContentBundle: [CB: TestContentBundle][Persistent_Level(Dedicated Server)] State changing from Unknown to Registered
+[2024.06.15-19.35.39:013][ 35]LogContentBundle: [CB: TestContentBundle][Persistent_Level(Dedicated Server)] No streaming object to inject.
+[2024.06.15-19.35.39:013][ 35]LogContentBundle: [CB: TestContentBundle][Persistent_Level(Dedicated Server)] State changing from Registered to ContentInjected
+[2024.06.15-19.35.39:013][ 35]LogContentBundle: [CB: TestContentBundle][Persistent_Level(Dedicated Server)] Client WorldState changing to ContentBundleInjected
+[2024.06.15-19.35.39:013][ 35]LogContentBundle: [Persistent_Level(Dedicated Server)] End initializing ContentBundles.
+[2024.06.15-19.35.39:014][ 35]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2024.06.15-19.35.39:014][ 35]LogLoad: Game class is 'BP_GameMode_C'
+[2024.06.15-19.35.39:015][ 35]LogReplicationGraph: Display: SetActorDiscoveryBudget set to 20 kBps (5333 bits per network tick).
+[2024.06.15-19.35.39:015][ 35]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.06.15-19.35.39:015][ 35]LogInit: BSD IPv4/6: Socket queue. Rx: 262144 (config 131072) Tx: 262144 (config 131072)
+[2024.06.15-19.35.39:015][ 35]LogNet: Created socket for bind address: 0.0.0.0:57036
+[2024.06.15-19.35.39:015][ 35]PacketHandlerLog: Loaded PacketHandler component: DTLSHandlerComponent ()
+[2024.06.15-19.35.39:015][ 35]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.15-19.35.39:015][ 35]LogNet: GameNetDriver NetDriverEOSBase_2147482191 IpNetDriver listening on port 57036
+[2024.06.15-19.35.39:031][ 35]LogWorld: Bringing World /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level up for play (max tick rate 30) at 2024.06.15-19.35.39
+[2024.06.15-19.35.39:909][ 35]LogSeasonalEvents: No active seasonal events
+[2024.06.15-19.35.39:937][ 35]LogWorld: Bringing up level for play took: 0.922022
+[2024.06.15-19.35.39:937][ 35]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (306440) to: (65536) for RecastNavMesh /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.RecastNavMesh_UAID_04D9F5D42711995401-Turtle
+[2024.06.15-19.35.39:938][ 35]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (306440) to: (65536) for RecastNavMesh /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.RecastNavMesh_UAID_04D9F5D42711995401-Giraffe
+[2024.06.15-19.35.39:939][ 35]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (306440) to: (65536) for RecastNavMesh /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.RecastNavMesh_UAID_04D9F5D42711995401-Elite
+[2024.06.15-19.35.39:940][ 35]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (306440) to: (65536) for RecastNavMesh /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.RecastNavMesh_UAID_04D9F5D42711995401-Default
+[2024.06.15-19.35.39:941][ 35]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (306440) to: (65536) for RecastNavMesh /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.RecastNavMesh_UAID_04D9F5D42711995401-Critter
+[2024.06.15-19.35.39:941][ 35]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (306440) to: (65536) for RecastNavMesh /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.RecastNavMesh_UAID_04D9F5D42711995401-Alpha
+[2024.06.15-19.35.39:946][ 35]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.06.15-19.35.39:984][ 35]LogCreature: Updated Navigation Generation settings for Critter
+[2024.06.15-19.35.39:984][ 35]LogCreature: Updated Navigation Generation settings for Default
+[2024.06.15-19.35.39:984][ 35]LogCreature: Updated Navigation Generation settings for Alpha
+[2024.06.15-19.35.39:984][ 35]LogCreature: Updated Navigation Generation settings for Elite
+[2024.06.15-19.35.39:984][ 35]LogCreature: Updated Navigation Generation settings for Giraffe
+[2024.06.15-19.35.39:984][ 35]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Turtle class /Script/NavigationSystem.RecastNavMesh agent radius 300.0.
+[2024.06.15-19.35.39:984][ 35]LogNavigationDataBuild: Display:    RebuildAll load time: 0.00s
+[2024.06.15-19.35.39:984][ 35]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (306440) to: (65536) for RecastNavMesh /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.RecastNavMesh_UAID_04D9F5D42711995401-Turtle
+[2024.06.15-19.35.39:986][ 35]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (306440) to: (65536) for RecastNavMesh /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.RecastNavMesh_UAID_04D9F5D42711995401-Turtle
+[2024.06.15-19.35.39:986][ 35]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Giraffe class /Script/NavigationSystem.RecastNavMesh agent radius 175.0.
+[2024.06.15-19.35.39:986][ 35]LogNavigationDataBuild: Display:    RebuildAll load time: 0.00s
+[2024.06.15-19.35.39:987][ 35]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Elite class /Script/NavigationSystem.RecastNavMesh agent radius 125.0.
+[2024.06.15-19.35.39:987][ 35]LogNavigationDataBuild: Display:    RebuildAll load time: 0.00s
+[2024.06.15-19.35.39:988][ 35]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 85.5.
+[2024.06.15-19.35.39:988][ 35]LogNavigationDataBuild: Display:    RebuildAll load time: 0.00s
+[2024.06.15-19.35.39:989][ 35]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Critter class /Script/NavigationSystem.RecastNavMesh agent radius 20.0.
+[2024.06.15-19.35.39:989][ 35]LogNavigationDataBuild: Display:    RebuildAll load time: 0.00s
+[2024.06.15-19.35.39:990][ 35]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Alpha class /Script/NavigationSystem.RecastNavMesh agent radius 120.0.
+[2024.06.15-19.35.39:990][ 35]LogNavigationDataBuild: Display:    RebuildAll load time: 0.00s
+[2024.06.15-19.35.39:991][ 35]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.06.15-19.35.39:991][ 35]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Turtle class /Script/NavigationSystem.RecastNavMesh agent radius 300.0.
+[2024.06.15-19.35.39:991][ 35]LogNavigationDataBuild: Display:    RebuildAll load time: 0.00s
+[2024.06.15-19.35.39:991][ 35]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (306440) to: (65536) for RecastNavMesh /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.RecastNavMesh_UAID_04D9F5D42711995401-Turtle
+[2024.06.15-19.35.39:992][ 35]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (306440) to: (65536) for RecastNavMesh /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.RecastNavMesh_UAID_04D9F5D42711995401-Turtle
+[2024.06.15-19.35.39:994][ 35]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Giraffe class /Script/NavigationSystem.RecastNavMesh agent radius 175.0.
+[2024.06.15-19.35.39:994][ 35]LogNavigationDataBuild: Display:    RebuildAll load time: 0.00s
+[2024.06.15-19.35.39:994][ 35]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Elite class /Script/NavigationSystem.RecastNavMesh agent radius 125.0.
+[2024.06.15-19.35.39:994][ 35]LogNavigationDataBuild: Display:    RebuildAll load time: 0.00s
+[2024.06.15-19.35.39:995][ 35]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 85.5.
+[2024.06.15-19.35.39:995][ 35]LogNavigationDataBuild: Display:    RebuildAll load time: 0.00s
+[2024.06.15-19.35.39:995][ 35]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Critter class /Script/NavigationSystem.RecastNavMesh agent radius 20.0.
+[2024.06.15-19.35.39:995][ 35]LogNavigationDataBuild: Display:    RebuildAll load time: 0.00s
+[2024.06.15-19.35.39:995][ 35]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Alpha class /Script/NavigationSystem.RecastNavMesh agent radius 120.0.
+[2024.06.15-19.35.39:995][ 35]LogNavigationDataBuild: Display:    RebuildAll load time: 0.00s
+[2024.06.15-19.35.39:996][ 35]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2024.06.15-19.35.40:010][ 35]LogGame: Dependencies for message Message_MAM_1_Research already met
+[2024.06.15-19.35.40:010][ 35]LogGame: Dependencies for message Message_MAM_2_Recipe already met
+[2024.06.15-19.35.40:010][ 35]LogGame: Dependencies for message Message_MAM_3_Building already met
+[2024.06.15-19.35.40:010][ 35]LogGame: Dependencies for message Message_MAM_4_Equipment already met
+[2024.06.15-19.35.40:010][ 35]LogGame: Dependencies for message Message_MAM_5_Resource already met
+[2024.06.15-19.35.40:010][ 35]LogGame: Dependencies for message Message_MAM_6_Object already met
+[2024.06.15-19.35.40:010][ 35]LogGame: Dependencies for message Message_MAM_7_Pocket already met
+[2024.06.15-19.35.40:010][ 35]LogGame: Dependencies for message Message_MAM_8_Toolbelt already met
+[2024.06.15-19.35.40:014][ 35]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(3), CellsToLoad(0), CellsToUnload(0)
+[2024.06.15-19.35.40:014][ 35]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.06.15-19.35.40:016][ 35]LogReplicationGraph: Display: SetActorDiscoveryBudget set to 20 kBps (5333 bits per network tick).
+[2024.06.15-19.35.40:016][ 35]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.06.15-19.35.40:016][ 35]LogInit: BSD IPv4/6: Socket queue. Rx: 262144 (config 131072) Tx: 262144 (config 131072)
+[2024.06.15-19.35.40:016][ 35]LogNet: Created socket for bind address: 0.0.0.0:57035
+[2024.06.15-19.35.40:016][ 35]PacketHandlerLog: Loaded PacketHandler component: DTLSHandlerComponent ()
+[2024.06.15-19.35.40:016][ 35]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.15-19.35.40:016][ 35]LogNet: IpNetDriver_2147481742 IpNetDriver_2147481742 IpNetDriver listening on port 57035
+[2024.06.15-19.35.40:017][ 35]LogLoad: Took 1.815161 seconds to LoadMap(/Game/FactoryGame/Map/GameLevel01/Persistent_Level)
+[2024.06.15-19.35.40:271][ 44]LogServer: Opening a new route from '27.151.103.140:5104' to '127.0.0.1:57035'
+[2024.06.15-19.35.40:295][ 44]LogNet: NotifyAcceptingConnection: Server OnlineBeaconHost_2147481744 accept
+[2024.06.15-19.35.40:295][ 44]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58660
+[2024.06.15-19.35.40:796][ 59]LogNet: NotifyAcceptingConnection: Server OnlineBeaconHost_2147481744 accept
+[2024.06.15-19.35.40:796][ 59]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58660
+[2024.06.15-19.35.41:263][ 73]LogNet: NotifyAcceptingConnection: Server OnlineBeaconHost_2147481744 accept
+[2024.06.15-19.35.41:264][ 73]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58660
+[2024.06.15-19.35.41:297][ 74]LogNet: NotifyAcceptingConnection: Server OnlineBeaconHost_2147481744 accept
+[2024.06.15-19.35.41:297][ 74]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58660
+[2024.06.15-19.35.41:330][ 75]LogNet: NotifyAcceptingConnection: Server OnlineBeaconHost_2147481744 accept
+[2024.06.15-19.35.41:330][ 75]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58660
+[2024.06.15-19.35.41:330][ 75]LogNet: IpConnection_2147481734 setting maximum channels to: 32767
+[2024.06.15-19.35.41:331][ 75]PacketHandlerLog: Loaded PacketHandler component: DTLSHandlerComponent ()
+[2024.06.15-19.35.41:331][ 75]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.15-19.35.41:331][ 75]LogNet: NotifyAcceptedConnection: Name: OnlineBeaconHost_2147481744, TimeStamp: 06/15/24 19:35:41, [UNetConnection] RemoteAddr: 127.0.0.1:58660, Name: IpConnection_2147481734, Driver: IpNetDriver_2147481742 IpNetDriver_2147481742, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.15-19.35.41:331][ 75]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58660, Name: IpConnection_2147481734, Driver: IpNetDriver_2147481742 IpNetDriver_2147481742, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.15-19.35.41:765][ 88]LogDTLSHandler: EnableEncryption: Server
+[2024.06.15-19.35.41:765][ 88]LogDTLSHandler: Warning: Empty certificate identifier
+[2024.06.15-19.35.41:832][ 90]LogDTLSHandler: DTLSCertVerifyCallback: Verified
+[2024.06.15-19.35.41:832][ 90]LogDTLSHandler: UpdateHandshake:  Handshaking completed
+[2024.06.15-19.36.11:363][974]LogNet: Warning: UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 30.03, Real: 30.03, Good: 30.03, DriverTime: 33.19, Threshold: 30.00, [UNetConnection] RemoteAddr: 127.0.0.1:58660, Name: IpConnection_2147481734, Driver: IpNetDriver_2147481742 IpNetDriver_2147481742, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.15-19.36.11:363][974]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionTimeout, ErrorString = UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 30.03, Real: 30.03, Good: 30.03, DriverTime: 33.19, Threshold: 30.00, [UNetConnection] RemoteAddr: 127.0.0.1:58660, Name: IpConnection_2147481734, Driver: IpNetDriver_2147481742 IpNetDriver_2147481742, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID, Driver = IpNetDriver_2147481742 IpNetDriver_2147481742
+[2024.06.15-19.36.11:363][974]LogGame: Error: Network Error Recived: Type: ConnectionTimeout, MSG: UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 30.03, Real: 30.03, Good: 30.03, DriverTime: 33.19, Threshold: 30.00, [UNetConnection] RemoteAddr: 127.0.0.1:58660, Name: IpConnection_2147481734, Driver: IpNetDriver_2147481742 IpNetDriver_2147481742, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.15-19.36.11:364][974]LogNet: NetworkFailure: ConnectionTimeout, Error: 'UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 30.03, Real: 30.03, Good: 30.03, DriverTime: 33.19, Threshold: 30.00, [UNetConnection] RemoteAddr: 127.0.0.1:58660, Name: IpConnection_2147481734, Driver: IpNetDriver_2147481742 IpNetDriver_2147481742, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID'
+[2024.06.15-19.36.11:364][974]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58660, Name: IpConnection_2147481734, Driver: IpNetDriver_2147481742 IpNetDriver_2147481742, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID, Channels: 1, Time: 2024.06.15-19.36.11
+[2024.06.15-19.36.11:364][974]LogNet: UNetConnection::SendCloseReason:
+[2024.06.15-19.36.11:364][974]LogNet:  - Result=ConnectionTimeout, ErrorContext="ConnectionTimeout"
+[2024.06.15-19.36.11:397][975]LogNet: UNetConnection::PendingConnectionLost. [UNetConnection] RemoteAddr: 127.0.0.1:58660, Name: IpConnection_2147481734, Driver: IpNetDriver_2147481742 IpNetDriver_2147481742, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID bPendingDestroy=0 
+[2024.06.15-19.36.26:840][438]LogServer: Opening a new route from '27.151.103.140:1047' to '127.0.0.1:57035'
+[2024.06.15-19.36.26:864][438]LogNet: NotifyAcceptingConnection: Server OnlineBeaconHost_2147481744 accept
+[2024.06.15-19.36.26:864][438]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:43414
+[2024.06.15-19.36.27:331][452]LogNet: NotifyAcceptingConnection: Server OnlineBeaconHost_2147481744 accept
+[2024.06.15-19.36.27:331][452]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:43414
+[2024.06.15-19.36.27:833][467]LogNet: NotifyAcceptingConnection: Server OnlineBeaconHost_2147481744 accept
+[2024.06.15-19.36.27:833][467]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:43414
+[2024.06.15-19.36.27:866][468]LogNet: NotifyAcceptingConnection: Server OnlineBeaconHost_2147481744 accept
+[2024.06.15-19.36.27:866][468]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:43414
+[2024.06.15-19.36.27:933][470]LogNet: NotifyAcceptingConnection: Server OnlineBeaconHost_2147481744 accept
+[2024.06.15-19.36.27:933][470]LogNet: Server accepting post-challenge connection from: 127.0.0.1:43414
+[2024.06.15-19.36.27:933][470]LogNet: IpConnection_2147481728 setting maximum channels to: 32767
+[2024.06.15-19.36.27:933][470]PacketHandlerLog: Loaded PacketHandler component: DTLSHandlerComponent ()
+[2024.06.15-19.36.27:933][470]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.15-19.36.27:934][470]LogNet: NotifyAcceptedConnection: Name: OnlineBeaconHost_2147481744, TimeStamp: 06/15/24 19:36:27, [UNetConnection] RemoteAddr: 127.0.0.1:43414, Name: IpConnection_2147481728, Driver: IpNetDriver_2147481742 IpNetDriver_2147481742, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.15-19.36.27:934][470]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:43414, Name: IpConnection_2147481728, Driver: IpNetDriver_2147481742 IpNetDriver_2147481742, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.15-19.36.28:334][482]LogDTLSHandler: EnableEncryption: Server
+[2024.06.15-19.36.28:334][482]LogDTLSHandler: Warning: Empty certificate identifier
+[2024.06.15-19.36.28:418][484]LogDTLSHandler: DTLSCertVerifyCallback: Verified
+[2024.06.15-19.36.28:418][484]LogDTLSHandler: UpdateHandshake:  Handshaking completed
+[2024.06.15-19.36.57:951][368]LogNet: Warning: UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 30.02, Real: 30.02, Good: 30.02, DriverTime: 79.78, Threshold: 30.00, [UNetConnection] RemoteAddr: 127.0.0.1:43414, Name: IpConnection_2147481728, Driver: IpNetDriver_2147481742 IpNetDriver_2147481742, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.15-19.36.57:951][368]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionTimeout, ErrorString = UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 30.02, Real: 30.02, Good: 30.02, DriverTime: 79.78, Threshold: 30.00, [UNetConnection] RemoteAddr: 127.0.0.1:43414, Name: IpConnection_2147481728, Driver: IpNetDriver_2147481742 IpNetDriver_2147481742, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID, Driver = IpNetDriver_2147481742 IpNetDriver_2147481742
+[2024.06.15-19.36.57:951][368]LogGame: Error: Network Error Recived: Type: ConnectionTimeout, MSG: UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 30.02, Real: 30.02, Good: 30.02, DriverTime: 79.78, Threshold: 30.00, [UNetConnection] RemoteAddr: 127.0.0.1:43414, Name: IpConnection_2147481728, Driver: IpNetDriver_2147481742 IpNetDriver_2147481742, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.15-19.36.57:951][368]LogNet: NetworkFailure: ConnectionTimeout, Error: 'UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 30.02, Real: 30.02, Good: 30.02, DriverTime: 79.78, Threshold: 30.00, [UNetConnection] RemoteAddr: 127.0.0.1:43414, Name: IpConnection_2147481728, Driver: IpNetDriver_2147481742 IpNetDriver_2147481742, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID'
+[2024.06.15-19.36.57:951][368]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:43414, Name: IpConnection_2147481728, Driver: IpNetDriver_2147481742 IpNetDriver_2147481742, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID, Channels: 1, Time: 2024.06.15-19.36.57
+[2024.06.15-19.36.57:951][368]LogNet: UNetConnection::SendCloseReason:
+[2024.06.15-19.36.57:951][368]LogNet:  - Result=ConnectionTimeout, ErrorContext="ConnectionTimeout"
+[2024.06.15-19.36.57:984][369]LogNet: UNetConnection::PendingConnectionLost. [UNetConnection] RemoteAddr: 127.0.0.1:43414, Name: IpConnection_2147481728, Driver: IpNetDriver_2147481742 IpNetDriver_2147481742, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID bPendingDestroy=0 
+[2024.06.15-19.38.12:797][610]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.06.15-19.38.12:797][610]LogInit: Display: PreExit Game.
+[2024.06.15-19.38.12:797][610]LogWorld: BeginTearingDown for /Game/FactoryGame/Map/GameLevel01/Persistent_Level
+[2024.06.15-19.38.12:797][610]LogNet: World NetDriver shutdown NetDriverEOSBase_2147482191 [GameNetDriver]
+[2024.06.15-19.38.12:797][610]LogNet: DestroyNamedNetDriver NetDriverEOSBase_2147482191 [GameNetDriver]
+[2024.06.15-19.38.12:797][610]LogExit: GameNetDriver NetDriverEOSBase_2147482191 shut down
+[2024.06.15-19.38.12:797][610]LogNet: World NetDriver shutdown IpNetDriver_2147481742 [IpNetDriver_2147481742]
+[2024.06.15-19.38.12:797][610]LogNet: DestroyNamedNetDriver IpNetDriver_2147481742 [IpNetDriver_2147481742]
+[2024.06.15-19.38.12:797][610]LogExit: IpNetDriver_2147481742 IpNetDriver_2147481742 shut down
+[2024.06.15-19.38.12:799][610]LogGame: Telemetry instance was shut down successfully.
+[2024.06.15-19.38.12:799][610]LogWorld: UWorld::CleanupWorld for Persistent_Level, bSessionEnded=true, bCleanupResources=true
+[2024.06.15-19.38.12:802][610]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(0), CellsToLoad(0), CellsToUnload(3)
+[2024.06.15-19.38.12:802][610]LogContentBundle: [Persistent_Level(Dedicated Server)] Deleting container.
+[2024.06.15-19.38.12:802][610]LogContentBundle: [CB: TestContentBundle][Persistent_Level(Dedicated Server)] State changing from ContentInjected to Registered
+[2024.06.15-19.38.12:802][610]LogContentBundle: [CB: TestContentBundle][Persistent_Level(Dedicated Server)] State changing from Registered to Unknown
+[2024.06.15-19.38.12:803][610]LogExit: Preparing to exit.
